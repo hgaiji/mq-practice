@@ -1,0 +1,6 @@
+{
+    "name": "root/myapp",
+    "require": {
+        "php-amqplib/php-amqplib": ">=2.9.0"
+    }
+}
